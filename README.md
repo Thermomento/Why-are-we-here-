@@ -8,7 +8,7 @@ Before answering this question, I think we first need to clarify who we are -- w
 
 ---
 
-## The AI's Answer and My Doubt
+### The AI's Answer and My Doubt
 
 But I don't agree with that answer. Because if one day AI can also deconstruct and even understand all of that -- if it can translate fuzzy artistic sensations like "heaviness," "fluidity," or "danger" into precise timing, vectors, and state-machine logic -- then the value of human beings in that process would be **flattened** just as easily, wouldn't it?
 
@@ -20,7 +20,7 @@ This is what has been troubling me: in such an era and future,
 
 ---
 
-## The Flaw in Defining Value as "Special Ability"
+### The Flaw in Defining Value as "Special Ability"
 
 If we define the value of human artists as "some special ability that AI temporarily lacks," that definition is almost doomed to fail. Because it is essentially a race:
 
@@ -33,7 +33,7 @@ Eventually we find: if the value of "being human" must depend on some ability th
 
 ---
 
-## The Core Question
+### The Core Question
 
 So I think the essence of this question is:
 
