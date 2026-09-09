@@ -7,4 +7,5 @@
 - Refining the phrasing of my opening paragraph to be more concise.
 - Checking the word count against the limit.
 - Assist in retrieving relevant literature
+- I organised most of the language in Chinese, so I used AI for translation
 ---
