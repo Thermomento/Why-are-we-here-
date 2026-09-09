@@ -1,176 +1,142 @@
 # Why Are We Here?
 
-As a designer, why I need to learn programming.
+As a designer, why do I need to learn programming?
 
 ---
 
 ## Before Answering, Who Am I?
 
-Before answering this question, I think we first need to clarify who we are -- who I am. Looking ahead, I want to become a **game designer**, a **game artist**. We already know that AI has changed many things, touching every field of game development. In an era where AI can generate infinite art assets and code, I asked this very question to DeepSeek. It told me that pure visual artists and pure logic coders can no longer be the answer -- that people need to define *game feel*, for example by fine-tuning physics simulations to make them more realistic.
+I want to become a **game designer**, a **game artist**. In an era where AI can generate almost unlimited art assets and code, I asked DeepSeek this question. It told me that pure visual artists and pure logic coders may no longer be enough〞that people need to define *game feel*, perhaps by fine-tuning physics to make movement feel heavier or more realistic.
+
+**But I don't agree.**
+
+If one day AI can translate "heaviness," "fluidity," or "danger" into precise timing, vectors, physics, and state-machine logic, then human value in that process could be flattened just as easily.
+
+This is what troubles me: does the value of the artist need to be redefined? Does beauty? And how do we define humanity itself?
+
+If human value means only "an ability AI has not yet mastered," we are trapped in a race:
+
+> AI learns to paint ↙ we turn to aesthetics
+> AI learns aesthetics ↙ we turn to worldviews
+> AI learns worldviews ↙ we turn to emotion
+> AI learns emotion ↙ we retreat again
+
+So the real question is:
+
+> **If creation itself can be automated, why do creators still need to exist? Why do we still need to learn?**
 
 ---
 
-### The AI's Answer and My Doubt
+## A Starting Point: Programming as a Tool
 
-But I don't agree with that answer. Because if one day AI can also deconstruct and even understand all of that -- if it can translate fuzzy artistic sensations like "heaviness," "fluidity," or "danger" into precise timing, vectors, and state-machine logic -- then the value of human beings in that process would be **flattened** just as easily, wouldn't it?
+I once thought programming was simply a tool: learn how things work so we can use AI better, read its output, and judge whether it works.
 
-This is what has been troubling me: in such an era and future,
+That is true. But it is not enough.
 
-- Does the value of the artist need to be redefined?
-- Does beauty need to be redefined?
-- And how do we define humanity itself?
+## Change Our Frame of Reference
 
----
+We have been thinking in terms of **human abilities vs. AI abilities**. But perhaps that framework is already the problem.
 
-### The Flaw in Defining Value as "Special Ability"
+Boden (1998) showed that AI can generate novel combinations, explore conceptual spaces, and even transform them. The boundary between "machine" and "human" creativity has never been fixed.
 
-If we define the value of human artists as "some special ability that AI temporarily lacks," that definition is almost doomed to fail. Because it is essentially a race:
+So instead of asking *what can humans do that AI cannot?*, perhaps we should ask:
 
-> AI learns to paint, we turn to aesthetics;  
-> AI learns aesthetics, we turn to worldviews;  
-> AI learns worldviews, we turn to emotion;  
-> AI learns to model emotion -- we keep retreating.
-
-Eventually we find: if the value of "being human" must depend on some ability that AI can never achieve, then sooner or later **we will have nowhere left to stand**.
+> **What does creating mean to us, even when creation itself becomes cheap?**
 
 ---
 
-### The Core Question
+## Why the "Ability Race" Is the Problem
 
-So I think the essence of this question is:
+Heidegger (1954/1977) argued that modern technology is not merely a neutral tool. Through **Enframing** (*Ge-stell*), things increasingly appear as resources to be calculated, optimized, and used.
 
-- If creation itself can be automated, why do creators still need to learn?  
-- Why do they still need to exist?  
-- Why do we still need to learn (to code, or whatever)?
+When we ask, "What can AI do, and what can humans still do?", we may already be accepting this logic. We measure human value using the same scale as machine performance.
 
----
+If AI becomes better at every measurable ability, there is nowhere left to retreat.
 
-## For Ourselves
-
-### A Starting Point: Programming as a Tool
-
-Earlier, I would have said: programming is a tool. We need to understand how things work so we can better use AI to achieve what we want. So we learn to code -- to read what AI gives us, to know if it is any good.
-
-That is not wrong. But it is not enough.
+The answer, therefore, may not be to find a final uniquely human ability, but to step outside the competition itself.
 
 ---
 
-### Change Our Frame of Reference
+## Both Humans and AI Have Their Own Limitations
 
-We have been thinking within this framework: **human abilities vs. AI abilities**. And we keep trying to find something humans can do that AI cannot.
+Long before AI, mechanical reproduction had already challenged the uniqueness and "aura" of artworks (Benjamin, 1935/1969).
 
-But perhaps this logic itself is flawed -- because *ability* can be learned, optimised, and surpassed. Any definable ability can, in principle, be systematised. And anything that can be systematised can eventually be mastered by AI.
+AI may eventually produce something more "Van Gogh" than Van Gogh himself. Yet we still care that *this was painted by Van Gogh*.
 
-So if we stay in this framework, the answer will always be: "Not yet, but maybe someday." That is not an answer.
+Why?
 
-Perhaps we should stop this pointless race and instead think more about what *creation* -- whether through code, painting, or writing -- means to us as human beings. Maybe we can afford to be a little more human-centred.
+Not simply because it is better, but because it is connected to a particular human life.
 
----
+An artwork can carry the trace of someone who lived through a particular time, made particular choices, and could never live that life again.
 
-### Both Humans and AI Have Their Own Limitations
+We should be careful here: we cannot simply prove that AI can never have experience or consciousness. But we can say that **simulation and lived experience are not obviously the same thing**.
 
-The problem posed by generative AI is not entirely unprecedented.
-Long before AI, mechanical reproduction had already challenged the uniqueness and ※aura§ traditionally associated with artworks (Benjamin, 2008).
-
-AI can generate works more "Van Gogh" than Van Gogh himself, yet we still care that *this was painted by Van Gogh*.
-
-Not because Van Gogh painted "better". But because:
-
-> This person truly lived, truly suffered, and truly put a part of his own life into the painting.
-
-AI can produce works "about suffering" on command, but behind such works there is no experience, no reason, no feeling.
-
-AI has no childhood -- or at least no childhood that resembles ours. It has never lost anyone. It has never doubted its own existence in the middle of the night. It has never hesitated out of fear of failure. It can simulate all of these, but it will never truly *undergo* them.
-
-The value of a work sometimes does not come from its "perfection", but from the *trace of a person* behind it.
-
-AI has no "one particular night". It has countless "generation processes", but not a single "night".
-
-This finitude -- that we have only one life, only these experiences, only this time -- forms the ground on which we cannot be replaced by AI. Not because AI "cannot do it", but because *doing* and *undergoing* are not the same thing.
+Our lives are finite. We have only one childhood, one history, one sequence of choices. That finitude gives human creation a context that cannot simply be reproduced by generating another output.
 
 ---
 
-### Choose, Not Produce
+## Choose, Not Produce
 
-When we acknowledge that AI can produce works "better than ours", the role of the artist may no longer be that of "the one who makes things". Instead, it becomes:
+If AI can produce things better than we can, perhaps the artist's role shifts:
 
 > **The one who, among infinite possibilities, chooses one and takes responsibility for it.**
 
-This "choice" is not about aesthetic judgment -- if AI can judge which is better, that is not choice. A genuinely human choice is often made not only because "this is better", but because:
+This is more than aesthetic judgment. Even if AI can tell us which option is "better," we can still say:
 
-> **"I love it."**
+> **"I choose this because I love it."**
 
-AI can write code. But when *I* learn to code, *I* am understanding how a world is constructed.
+AI can write code. But when *I* learn to code, I am not merely learning to produce code. I am learning how systems are constructed.
 
-AI can paint. But when *I* paint, *I* am transforming an unrepeatable experience into shape.
+Papert (1980) treated programming as a way of thinking〞something through which we can construct and explore ideas. For a game designer, this matters because games are systems of rules, interaction, and emergence (Salen & Zimmerman, 2003). Their rules can even become a form of expression: Bogost (2007) calls this **procedural rhetoric**.
 
-AI can judge what is better. But when *I* choose one among ten thousand possibilities, *I* am saying: "This world should be this way, because *this is how I see it*."
+So programming is not only implementation.
 
-This is not because AI cannot do it. It is because:
+It is a language for constructing worlds.
 
-> **The process of doing it is the process of becoming oneself.**
-
-So perhaps the problem is not simply that AI is becoming better at creating. Perhaps AI is changing what we understand creation itself to be.
+The value of learning it is not that I can code faster than AI. It is that I can understand what a system *is*, what it *could become*, and why I might want it to exist.
 
 ---
 
-### Epilogue: Words from a Game Creator
+## Epilogue: Words from a Game Creator
 
-Perhaps this is a little pessimistic, but I would like to end with words from a game creator I came across a few days ago.
+Kazutaka Kodaka, creator of *Danganronpa*, recently joked that even if AI can eventually do everything for us, humans will still be capable of failing, being jealous, being lazy, complaining, and losing their temper.
 
-I hope you like *Danganronpa*. Kazutaka Kodaka just said these words a few days ago:
+These sound like flaws.
 
-> "I heard that AI can do everything for you these days --
-> it can paint, write, compose music, and even listen to your worries!
-> Oh my, what a convenient age we live in!
->
-> Maybe soon, even falling in love, raising children, and making friends
-> can all be done by AI for you, right?
-> Then humans won't need to try anymore.
-> No more effort needed.
-> After all, isn't effort about making what was once impossible possible?
-> With AI, there's no need to do that anymore!
->
-> Huh? Do you think 'the self who tried hard' has value?
-> No, no, no -- this world cares about results, not how many all-nighters you pulled.
-> That stuff doesn't matter.
->
-> But you know, no matter how smart AI gets, there are still some things only humans can do.
-> Like failing, being jealous, being lazy, bad-mouthing those who are more successful than you,
-> and throwing a tantrum shouting 'AI has no heart!'
->
-> See? There are still so many things
-> only humans can do!
->
-> So, even if AI becomes more and more like humans,
-> humans can still go on being human, just fine.
->
-> That's reassuring."
+But perhaps that is precisely the point.
 
-The things he listed as "only humans can do" -- failure, jealousy, laziness, losing your temper -- sound like flaws. But perhaps it is precisely these *imperfections* that define us.
+AI may become increasingly capable of simulating our emotions, mistakes, and personalities. Yet the fact that **I am the one living through my mistakes** remains part of my own finite history.
 
-AI will never fail so hard that its heart breaks. It will never write something more sincere out of jealousy. It will never suddenly get an idea while being lazy. It will never truly feel angry that "AI has no heart" -- but we will.
-
-So **Why are we here?**
+So **why are we here?**
 
 Not to do what AI cannot do.
 
-But to *choose to become ourselves* in a world where AI can do everything.
+Not to win a race against machines.
 
-To be the one who fails, is jealous, is lazy, loses their temper -- and still chooses to create.
+But to **choose to become ourselves in a world where almost anything can be created**.
 
-To be the one who, even knowing AI can do it "better", still chooses to put their own finite life into the work.
+To fail, to love, to become jealous, to lose our temper〞and still choose to create.
 
-To become oneself.
+To know that AI may do it "better," and still put our finite lives into the work.
 
-That is all. Thank you for reading this far.
+**To become oneself.**
+
+That is all.
 
 ---
 
 ## References
-Benjamin, W. (1969). The work of art in the age of mechanical reproduction (H. Zohn, Trans.). In H. Arendt (Ed.), Illuminations (pp. 217每251). Schocken Books. (Original work published 1935)
 
-Heidegger, M. (1977). The question concerning technology. In W. Lovitt (Trans.), The question concerning technology and other essays (pp. 3每35). Garland Publishing. (Original work published 1954)
+Benjamin, W. (1969). The work of art in the age of mechanical reproduction (H. Zohn, Trans.). In H. Arendt (Ed.), *Illuminations* (pp. 217每251). Schocken Books. (Original work published 1935)
 
-Kodaka, K. (2026). https://weibo.com/7961282611/Rh9w5v8EQ.
+Boden, M. A. (1998). Creativity and artificial intelligence. *Artificial Intelligence, 103*(1每2), 347每356. https://doi.org/10.1016/S0004-3702(98)00055-1
 
+Bogost, I. (2007). *Persuasive games: The expressive power of videogames*. MIT Press.
+
+Heidegger, M. (1977). The question concerning technology. In W. Lovitt (Trans.), *The question concerning technology and other essays* (pp. 3每35). Garland Publishing. (Original work published 1954)
+
+Kodaka, K. (2026). [Social media post]. Weibo. https://weibo.com/7961282611/Rh9w5v8EQ
+
+Papert, S. (1980). *Mindstorms: Children, computers, and powerful ideas*. Basic Books.
+
+Salen, K., & Zimmerman, E. (2003). *Rules of play: Game design fundamentals*. MIT Press.
