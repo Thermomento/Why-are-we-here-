@@ -22,7 +22,7 @@ So I started asking myself:
 
 **Why?**
 
-I asked DeepSeek this question as well. It suggested that pure visual artists and pure logic programmers may no longer be enough. Instead, humans should focus on defining *game feel*¡ªfor example, making movement feel heavier, smoother, or more realistic through precise design decisions.
+I asked DeepSeek this question as well. It suggested that pure visual artists and pure logic programmers may no longer be enough. Instead, humans should focus on defining *game feel*, for example, making movement feel heavier, smoother, or more realistic through precise design decisions.
 
 But I do not fully agree.
 
@@ -32,7 +32,7 @@ So the deeper question is not whether AI can replace certain skills.
 
 It is:
 
-> **When machines become capable of creating more and more, why do humans still need to create?**
+> **When machines become capable of creating almost everything, why do humans still need to learn and create?**
 
 ---
 
@@ -129,9 +129,9 @@ But perhaps these imperfections are precisely what make us human.
 
 The value of creation is not only the final result. It is also the fact that a finite person chose, experienced, struggled, and left a trace in the world.
 
-So why are we here?
+So *why are **we** here?* 
 
-So **why are we here?** Not to do what AI cannot do. Not to win a race against machines. But to **choose to become ourselves in a world where almost anything can be created**. 
+Not to do what AI cannot do. Not to win a race against machines. But to **choose to become ourselves in a world where almost anything can be created**. 
 To fail, to love, to become jealous, to lose our temper¡ªand still choose to create. To know that AI may do it "better," and still put our finite lives into the work. **To become oneself.**
 
 ---

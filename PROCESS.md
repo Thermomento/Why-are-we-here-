@@ -130,4 +130,5 @@ Learning programming, drawing, or design is not only about acquiring skills; it 
 
 I kept the use of AI as a research assistant rather than an authority. 
 AI helped me discover related theories and references, but I did not accept its suggestions without verification. The final selection of literature was based on whether the sources were academically valid and whether they genuinely supported my argument.
+
 ---
