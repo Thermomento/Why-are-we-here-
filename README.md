@@ -6,32 +6,41 @@ As a designer, why do I need to learn programming?
 
 ## Before Answering, Who Am I?
 
-I want to become a **game designer**, a **game artist**. In an era where AI can generate almost unlimited art assets and code, I asked DeepSeek this question. It told me that pure visual artists and pure logic coders may no longer be enough¡ªthat people need to define *game feel*, perhaps by fine-tuning physics to make movement feel heavier or more realistic.
+During my undergraduate studies, I started using AI tools regularly. At that time, AI still felt limited. It could assist with simple questions, generate basic images, or provide imperfect code, but there was always a clear boundary between what AI could and could not do.
 
-**But I don't agree.**
+However, over the past few years, I watched that boundary gradually disappear.
 
-If one day AI can translate "heaviness," "fluidity," or "danger" into precise timing, vectors, physics, and state-machine logic, then human value in that process could be flattened just as easily.
+Things that once seemed impossible became possible in a surprisingly short time. AI-generated images became more convincing. AI coding assistants became more capable. Models began to understand increasingly complex instructions and produce results that previously required human expertise.
 
-This is what troubles me: does the value of the artist need to be redefined? Does beauty? And how do we define humanity itself?
+At first, I still believed that the "singularity" was far away. I thought AI would become more powerful, but there would always be a clear space reserved for human creators.
 
-If human value means only "an ability AI has not yet mastered," we are trapped in a race:
+But seeing this rapid progress changed my perspective. I have to say it's really frustrated to see ai can do such a range of things in such a short time, but still in such an era that ai can do almost everything, I still want to become a **game designer**, a **game artist**, and learn programming or whatever skills by my own.
 
-> AI learns to paint ¡ú we turn to aesthetics
-> AI learns aesthetics ¡ú we turn to worldviews
-> AI learns worldviews ¡ú we turn to emotion
-> AI learns emotion ¡ú we retreat again
+So, i also asked myself, why?
 
-So the real question is:
+I also asked DeepSeek this question, why in such an era we still need to learn programming and codes. It told me that pure visual artists and pure logic coders may no longer be enough¡ªthat people need to define *game feel*, perhaps by fine-tuning physics to make movement feel heavier or more realistic.
 
-> **If creation itself can be automated, why do creators still need to exist? Why do we still need to learn?**
+But I don't agree. Because one day AI might understand all of this, so what happens after that day? The all become meaningless?
+
+So perhaps the question is no longer whether AI can replace certain skills. Perhaps we need to ask a deeper question:
+
+**When machines become capable of creating more and more, why do humans still need to create?**
+
+
 
 ---
 
 ## A Starting Point: Programming as a Tool
 
-I once thought programming was simply a tool: learn how things work so we can use AI better, read its output, and judge whether it works.
+Before this reflection, my answer would have been much simpler.
 
-That is true. But it is not enough.
+As a design student, I believed learning programming was mainly practical. Programming could expand my ability to prototype ideas, communicate with programmers, understand technical limitations, and evaluate AI-generated code more effectively.
+
+These reasons are still valid.
+
+But after witnessing how quickly AI improved, I realised that practical advantages alone might not be enough. If AI continues to become better at generating code, then using programming merely as a way to produce things will eventually become another competition that humans may lose.
+
+This forced me to reconsider what learning programming actually means.
 
 ## Change Our Frame of Reference
 
@@ -54,6 +63,14 @@ When we ask, "What can AI do, and what can humans still do?", we may already be 
 If AI becomes better at every measurable ability, there is nowhere left to retreat.
 
 The answer, therefore, may not be to find a final uniquely human ability, but to step outside the competition itself.
+Looking back, I realised that AI did not only change what I could produce. It changed the questions I asked.
+
+At first, I asked:"How can AI help me create faster?"
+Later, I started asking:"If AI can create faster than me, what is my reason for creating?"
+
+Perhaps this is what Heidegger meant by technology shaping not only our tools, but our way of revealing the world.
+
+
 
 ---
 
